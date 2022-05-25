@@ -6,7 +6,5 @@ public class Task2 {
                 motorbike.getYear() + "\n" +
                 motorbike.getColor());
         System.out.println();
-        System.out.println();
-
     }
 }
