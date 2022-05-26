@@ -5,7 +5,5 @@ public class Task2 {
         System.out.println(motorbike.getModel() + "\n" +
                 motorbike.getYear() + "\n" +
                 motorbike.getColor());
-
-        System.out.println("Hello");
     }
 }
